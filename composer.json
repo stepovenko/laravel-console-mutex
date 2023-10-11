@@ -1,5 +1,5 @@
 {
-    "name": "oriceon/console-mutex",
+    "name": "stepovenko/console-mutex",
     "description": "Mutex for Laravel Console Commands.",
     "keywords": ["laravel", "console", "command", "mutex", "mutex-lock", "semaphore", "locker", "no-overlapping"],
     "license": "MIT",
